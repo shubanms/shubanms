@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shuban M S</h1>
-<h3 align="center">A passionate Programmer from India, currently studying at VIT Chennai, a second year B.Tech Electronics and Computer Engineering student.</h3>
+<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a second year B.Tech Electronics and Computer Engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubanms&label=Profile%20views&color=0e75b6&style=flat" alt="shubanms" /> </p>
 
