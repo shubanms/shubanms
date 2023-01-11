@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shuban M S! <img alt="wave" src="https://github.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand.png" width=3.5%></h1>
-<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a second year B.Tech Electronics and Computer Engineering student.</h3>
+<h3 align="center">A passionate programmer from India, currently studying at VIT Chennai, a sophomore in B.Tech Electronics and Computer Engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubanms&label=Profile%20views&color=0e75b6&style=flat" alt="shubanms" /> </p>
 
