@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubanms&label=Profile%20views&color=0e75b6&style=flat" alt="shubanms" /> </p>
 
 # 🏆 GitHub Trophies 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubanms" alt="shubanms" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubanms&theme=nord&row=1&no-frame=true" alt="shubanms" /></a> </p>
 
 <br>
 
